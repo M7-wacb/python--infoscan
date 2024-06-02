@@ -3,9 +3,8 @@
 > https://www.cnblogs.com/yoyo1216/p/16165758.html
 > https://blog.csdn.net/weixin_45438997/article/details/124261720
 
-pip安装requirements.txt
+pip安装:  `pip install -r requirements.txt`
 
-`pip install -r requirements.txt`
 使用命令：
 
 `mitmdump -s infoscan.py -p 8090 --ssl-insecure -q`
