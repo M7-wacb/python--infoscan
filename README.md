@@ -6,4 +6,6 @@
 pip安装requirements.txt
 
 `pip install -r requirements.txt`
+使用命令：
 
+`mitmdump -s infoscan.py -p 8090 --ssl-insecure -q`
