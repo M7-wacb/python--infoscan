@@ -1,4 +1,4 @@
-# python-被动式敏感信息扫描
+# python-主被动结合式敏感目录扫描
 效果图如下：
 ![image](https://github.com/M7-wacb/python--infoscan/assets/123800032/e2eefb0c-294a-47ba-862a-6399300cce3d)
 
