@@ -13,3 +13,10 @@ pip安装:  `pip install -r requirements.txt`
 
 `mitmdump -s infoscan.py -p 8090 --ssl-insecure -q`
 
+建议联动burpsuite，具体操作：
+![image](https://github.com/M7-wacb/python--infoscan/assets/123800032/914019a2-299c-449a-b71a-eab9d1c52330)
+设置burpsuite上层代理，ip写127.0.0.1，端口就是命令mitmdump -p 监听的端口：
+![image](https://github.com/M7-wacb/python--infoscan/assets/123800032/37f8cea8-7e0a-4423-b504-cb831e76bc97)
+
+### 注意事项
+使用时cmd界面可能卡住，在属性中关闭快速编辑模式即可。
