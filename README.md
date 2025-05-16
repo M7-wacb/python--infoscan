@@ -1,6 +1,7 @@
 # python-主被动结合式敏感目录扫描
 效果图如下：
 ![image](https://github.com/M7-wacb/python--infoscan/assets/123800032/e2eefb0c-294a-47ba-862a-6399300cce3d)
+Python版本：**3.7.2**
 
 使用python编写的被动敏感信息扫描脚本，使用mitmdump，安装教程和可能遇到的问题:
 > https://www.cnblogs.com/yoyo1216/p/16165758.html
